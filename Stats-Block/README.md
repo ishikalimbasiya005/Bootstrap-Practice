@@ -28,10 +28,6 @@ This project demonstrates a simple, responsive **Stats/Achievement Block** built
 - SaaS dashboard metrics
 - About Us KPIs
 
-## 🛠️ Customization
-
-To update the values (numbers/text), open `index.html` and change the `<strong>` and `<p>` tags inside each `.stats-box`.
-
 ```
 
 
