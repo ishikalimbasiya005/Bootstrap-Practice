@@ -27,7 +27,3 @@ This project demonstrates a simple, responsive **Stats/Achievement Block** built
 - Portfolio achievement counter
 - SaaS dashboard metrics
 - About Us KPIs
-
-```
-
-
