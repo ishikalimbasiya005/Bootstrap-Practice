@@ -10,6 +10,8 @@ This repository contains hands-on practice examples of **Bootstrap 5** features.
 ### 3. `margin/`
 ### 4. `padding/`
 ### 5. `border/`
+### 6. `Alert/`
+### 7. `Button/`
 
 ## 📚 Technologies Used
 
